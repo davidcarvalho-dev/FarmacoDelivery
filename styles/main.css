@@ -1,0 +1,64 @@
+body {
+    background-color: #E6E6E6;
+}
+.bg-menu{
+    background-color: #8D0000;
+}
+.logo-menu{
+    width: 100%;
+}
+.link-logo{
+    
+    max-width: 4rem;
+}
+.bpesquisa{
+    border-radius: 50pc;
+    padding-inline-end: 55vw;
+    
+}
+.botao{
+    border-radius: 50pc;
+    background-color: whitesmoke;
+    color: #0D0300;
+}
+
+.botao:hover{
+    background-color: #e00000;
+    color: whitesmoke;
+}
+.icones{
+    max-width:  2vw;
+    margin-right: 2px;
+}
+.div-catego{
+    padding-top: 3px;
+    background-color: #6d0000;
+    margin: 0; 
+}
+.catego-links{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.catego-links:hover{
+    color: #F2AEAE;
+}
+ 
+.div-footer{
+    
+    justify-content: center;
+    background-color: #8D0000;
+}
+.div-logofooter{
+    align-items: center;
+    width: 8rem;
+
+}
+.logo-footer {
+    margin: 1rem;
+    width: 5rem;
+}
+.titulo{
+    margin-top: 1vh;
+    color: whitesmoke;
+}
+
