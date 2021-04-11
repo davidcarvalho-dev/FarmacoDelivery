@@ -1,5 +1,27 @@
-.registrar {
+h2 {
+    padding-top: 100px;
+    padding-bottom: 20px;
     text-align: center;
+}
+
+.politicas {
+    align-items: center;
+    padding-top: 20px;
+}
+
+.registrar {
+    
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 20px;
+}
+
+
+.botao {
+    border-color: #e00000;
+    border-radius: 50pc;
+    background-color: #e00000;
+    color: whitesmoke;
 }
 
 a {
