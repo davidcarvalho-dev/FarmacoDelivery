@@ -1,0 +1,54 @@
+main{
+    margin-top: 5%;
+    margin-bottom: 15%;
+}
+.imagem{
+    max-width: 80%;
+    height: 15rem;
+    
+
+}
+.card{
+    padding: 0 0 0 0;
+    margin-right: 3px;
+    margin-top: 3px;
+    width: 15em;
+    align-items: center;
+    border-radius: 2rem;
+    
+}
+.produtos{
+    justify-content: center;
+}
+.botoes{
+    max-width: 80%;
+    margin: 3%;
+    padding: 0%;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+.botao{
+    border-radius: 50pc;
+    background-color: #e00000;
+    color: whitesmoke;
+    max-width: 12vw;
+    max-width: 100%;
+}
+
+.botao:hover{
+    background-color: #6d0000;
+    color: white;
+}
+
+.botaoc{
+    border-radius: 50pc;
+    background-color: #E2E2E2;
+    color:black;
+    max-width: 12vw;
+    max-width: 100%;
+}
+.botaoc:hover{
+    background-color: #4F4F4F;
+    color: whitesmoke;
+}
+
