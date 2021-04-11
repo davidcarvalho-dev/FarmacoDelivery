@@ -1,0 +1,47 @@
+
+.div-login {
+   
+    justify-content: center;
+    margin: 3%;
+    padding: 3%;
+}
+
+.div-formlogin{
+    align-items: center;
+    justify-content: center;
+    border-radius: 2rem;
+    align-items: center;
+    max-width: 60%;
+    
+}
+.formlogin{
+    max-width:100%;
+    margin: 0%;
+    padding: 0%;
+    justify-content: center;
+}
+.conectado {
+    justify-content: center;
+    align-items: center;
+    background-color: darkgreen;
+    
+
+}
+.div-btn{
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5%;
+    margin-top: 2%;
+    padding: 0rem;
+}
+.botao{
+    border-radius: 50pc;
+    background-color: #e00000;
+    color: whitesmoke;
+    max-width: 12vw;
+}
+
+.botao:hover{
+    background-color: #6d0000;
+}
