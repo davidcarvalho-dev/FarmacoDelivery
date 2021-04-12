@@ -17,9 +17,49 @@ main{
     border-radius: 2rem;
     
 }
+
+.filtro-a {
+    
+    align-items: center;
+    background-color: white;
+    text-align: center;
+    margin-left: 15vh;
+    max-height: 40vh;
+    border-radius: 5vh;
+    max-width: 40vh;
+    
+}
+
+h3  {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+
+.form-a {
+    text-align: center;
+    max-width: 30vh;
+    
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.form-a p {
+    font-weight: bold;
+}
+
+.form-b {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
 .produtos{
     justify-content: center;
+    padding: 0;
+    margin: 0;
 }
+
 .botoes{
     max-width: 80%;
     margin: 3%;
@@ -33,6 +73,7 @@ main{
     color: whitesmoke;
     max-width: 12vw;
     max-width: 100%;
+    border: none
 }
 
 .botao:hover{
