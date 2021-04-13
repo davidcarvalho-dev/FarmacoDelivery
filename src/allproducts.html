@@ -112,84 +112,67 @@
     <main>
 
         <div class="container-fluid">
-            <div class="row">
-
-            </div>
+           
             <h3 class="text-center mb-5"> Todos os produtos</h3>
-            <div class="container-fluid">
-                <div class="row">
-
+            
                     <!--FILTRO DE PESQUISA-->
 
-                    <div class="col-md-3 col-sm-6 col-xs-12 filtro-a border-0">
-
-                        <h3>Filtro pesquisa</h3>
-
-                        <!--tipo-->
-                        <div class="container form-control form-a border-0">
-                            <form class="">
-                                <select id="inputState" class="form-select rounded-pill form-b">
-                                    <option selected>Tipo do produto</option>
-                                    <option>Analgésicos</option>
-                                    <option>Anti-inflamatórios</option>
-                                    <option>Antiespasmódicos</option>
-                                    <option>Pele e cabelo</option>
-                                </select>
-
-                                <!--data
-                                <Fieldset class="form-control border-0">
-                                    <div class="filtro-data-produto ">
-                                        <p>Data de lançamento</p>
-                                        <input type="date" name="" id="">
-                                    </div>
-                                </Fieldset>
-                                -->
-
-
-
-                                <!--valor-->
-
-                                <div class="form-control border-0 filtro-valor-produto ">
-                                    <p>Preço</p>
-                                    <input type="number" name="" id="" placeholder="Digite o valor" +>
-                                    <label for="customRange1" class="form-label"></label>
-                                    <input type="range" class="form-range" id="customRange1">
-                                </div>
-
-                                <!--tamanho
-                                <div class="form-control border-0">
-                                    <p>Tamanho</p>
-                                    <div class="form-check">
-                                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                                        <label class="form-check-label" for="flexCheckDefault">P</label>
-                                    </div>
-
-                                    <div class="form-check">
-                                        <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked"
-                                            checked>
-                                        <label class="form-check-label" for="flexCheckChecked">M</label>
-                                    </div>
-
-                                    <div class="form-check">
-                                        <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
-                                        <label class="form-check-label" for="flexCheckChecked">G</label>
-                                    </div>
-                                </div>
-                                -->
-                                <div class="form-control  border-0 d-grid gap-2 col-6 mx-auto">
-                                    <button class="btn botao btn-primary" type="button">Pesquisar</button>
-                                </div>
-
-                            </form>
-                        </div>
-                    </div>
+              
 
                     <!--LISTA PRODUTOS-->
 
-                    <div class="col-md-8 col-sm-6 col-xs-12 ">
 
-                        <div class="row container-fluid produtos">
+                        <div class="row container-fluid produtos"> 
 
+
+                            <div class=" col-12 col-sm-6 col-md-4 cardb ms-1 me-4 mb-5">
+                                <h3>Filtro pesquisa</h3>
+                                <form class="">
+                                    <select id="inputState" class="form-select rounded-pill ">
+                                        <option selected>Tipo de produto</option>
+                                        <option>Analgésicos</option>
+                                        <option>Anti-inflamatórios</option>
+                                        <option>Antiespasmódicos</option>
+                                        <option>Pele e cabelo</option>
+                                    </select>
+    
+
+    
+                                    <div class="border-0 filtro-valor-produto ">
+                                        <p class="formp">Preço</p>
+                                        <input type="number" name="" id="" placeholder="Digite o valor" class="form-control">
+                                        <label for="customRange1" class="form-label"></label>
+                                        <input type="range" class="form-range form-control" id="customRange1">
+                                    </div>
+    
+                                   
+                                 <!--   <div class="tamanhos">
+                                        <p class="formp text-center">Tamanho</p>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">P</label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked"
+                                                checked>
+                                            <label class="form-check-label" for="flexCheckChecked">M</label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
+                                            <label class="form-check-label" for="flexCheckChecked">G</label>
+                                        </div>
+                                    </div>
+                                    -->
+                                    <div class="border-0">
+                                        <button class="btn botao mt-4" type="button">Filtrar</button>
+                                    </div>
+    
+                                </form>
+                            </div>
+
+
+                            
+                        
                             <div class="col-12 col-sm-6 col-md-4 ms-1 mt-1 card">
                                 <img class="img-fluid img-card imagem" src="../images/products/Dipirona.png"
                                     alt="dipirona">
@@ -240,6 +223,12 @@
                                     <button class="btn  botaoc m-1 col-12" type="submit">Adcionar ao carirnho</button>
                                 </div>
                             </div>
+                        </div>
+
+
+                        <div class="row container-fluid produtos">
+
+
                             <div class="col-12 col-sm-6 col-md-4 ms-1 mt-1 card">
                                 <img class="img-fluid img-card imagem"
                                     src="../images/products/Anti-inflamatórios •Diclofenaco.png" alt="fentanil">
@@ -401,7 +390,7 @@
                             </div>
                         </div>
                     </div>
-
+            
                 </div>
             </div>
         </div>
