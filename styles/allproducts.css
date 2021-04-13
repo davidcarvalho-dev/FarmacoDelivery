@@ -17,16 +17,27 @@ main{
     border-radius: 2rem;
     
 }
-
-.filtro-a {
-    
-    align-items: center;
-    background-color: white;
+.cardb{
+    margin-top: 0.4rem;
+    padding-bottom: 1rem;
     text-align: center;
-    margin-left: 15vh;
-    max-height: 40vh;
-    border-radius: 5vh;
-    max-width: 40vh;
+    width: 15em;
+    align-items: center;
+    border-radius: 2rem;
+    background-color: white;
+    
+}
+.formp{
+    margin-top: 1rem;
+    font-weight: bold;  
+}
+
+.tamanhos {
+    text-align: start;
+}
+.formp{
+    margin-top: 1rem;
+    font-weight: bold;
     
 }
 
@@ -35,29 +46,11 @@ h3  {
     padding-bottom: 10px;
 }
 
-
-.form-a {
-    text-align: center;
-    max-width: 30vh;
-    
-    padding-bottom: 0;
-    margin-bottom: 0;
-}
-
-.form-a p {
-    font-weight: bold;
-}
-
-.form-b {
-    align-items: center;
-    align-content: center;
-    text-align: center;
-}
-
 .produtos{
     justify-content: center;
     padding: 0;
     margin: 0;
+   
 }
 
 .botoes{
