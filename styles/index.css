@@ -3,28 +3,23 @@
     margin-top: 3vh;
 }
 
-
 .div-carrousel {
     justify-content: center;
     align-items: center;
-   
-
 }
 
 .botao-car {
-    
+    background-color: #8D0000;
 }
 
 .imagem {
     justify-content: center;
     align-items: center;
-
 }
 
 h3 {
     text-align: center;
     color: black;
-   
 }
 
 p {
@@ -35,4 +30,8 @@ p {
 
 a {
     text-decoration: none;
+}
+
+.prod-index {
+    margin-top: 15rem;
 }
