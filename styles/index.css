@@ -1,0 +1,38 @@
+.carrosel {
+    max-height: 30vh;
+    margin-top: 3vh;
+}
+
+
+.div-carrousel {
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+.botao-car {
+    
+}
+
+.imagem {
+    justify-content: center;
+    align-items: center;
+
+}
+
+h3 {
+    text-align: center;
+    color: black;
+   
+}
+
+p {
+    text-align: center;
+    color: #676c70;
+    margin-bottom: 3vh;
+}
+
+a {
+    text-decoration: none;
+}
