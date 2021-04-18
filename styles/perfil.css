@@ -1,0 +1,62 @@
+.caixag{
+    justify-content: center;
+}
+.caixa{
+    background-color: #f2f2f2;
+    border-radius: 1rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    justify-content: center;
+    align-items: center;
+
+}
+.linha-perfil{
+    justify-content: center;
+    
+}
+.user{
+    margin: 1rem;
+}
+.div-opcoes{
+    
+    justify-content: center;
+}
+.btns{
+    justify-content: center;
+}
+.btn-voltar{
+    background-color: #f24b4b;
+    color: whitesmoke;
+    border-radius: 50pc;
+}
+.btn-voltar:hover{
+    background-color: #6d0000;
+    color: whitesmoke;
+    
+}
+.btn-verperfil{
+    background-color:  #6b1f1f;;
+    color: whitesmoke;
+    border-radius: 50pc;
+
+}
+.btn-verperfil:hover{
+    background-color:#6d0000;
+    color: whitesmoke;
+    border-radius: 50pc;
+
+}
+.link-limpo{
+    text-decoration: none;
+    color: whitesmoke;
+    width: 100%;
+    height: 100%;
+}
+.link-limpo:hover{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.link-limpo:visited{
+    text-decoration: none;
+    color: whitesmoke;
+}
