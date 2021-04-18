@@ -17,14 +17,13 @@ h2 {
 
 .botao-cadastro {
     margin-top: 1rem;
+    color: whitesmoke;
     background-color: #e00000;
-    border: none;
+    border-radius: 50pc;
 }
 .botao-cadastro:hover{
     background-color: #6d0000;
-    color: white;
+    color: whitesmoke;
 }
 
-.botao-cadastro:{
-   background-color: #e00000; 
-}
+
