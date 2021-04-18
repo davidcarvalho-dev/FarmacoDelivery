@@ -31,7 +31,46 @@ p {
 a {
     text-decoration: none;
 }
+.etiqueta{
+    width: 10%;
+}
+.botaoc2 {
+    background-color: #363636;
+    border-radius: 5pc;
+
+}
+.botaoc2:hover {
+    background-color: 	#696969 ;
+   
+
+}
+.botaov{
+    background-color: mediumseagreen;
+    border-radius: 50pc;
+    color: whitesmoke;
+    
+}
+.botaov:hover{
+    background-color: seagreen;
+    border-radius: 50pc;
+    color: whitesmoke;
+}
+
+.botao-carrinho{
+    width: 80%;
+    align-self: start;
+    margin-left: 0%;
+    padding: 0%;
+}
 
 .prod-index {
     margin-top: 15rem;
+    justify-content: center
+}
+.titulo{
+    margin-top: 6rem;
+    color: black;
+}
+h6{
+    color: whitesmoke;
 }
