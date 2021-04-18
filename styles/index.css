@@ -8,10 +8,13 @@
     align-items: center;
 }
 .linha-fredesco{
-    margin-top: 25rem;
+    margin-top: 13rem;
+    max-width: 90vw;
+    margin-left: 0.012rem;
 
 }
 .div-frete {
+    padding-top: 1.5rem;
     justify-content: center;
     align-items: center;
     background: white;
@@ -23,6 +26,7 @@
 }
 
 .div-descontos {
+    padding-top: 1.5rem;
     justify-content: center;
     align-items: center;
     background: white;
