@@ -8,6 +8,24 @@
     align-items: center;
 }
 
+.div-frete {
+    justify-content: center;
+    align-items: center;
+    background: white;
+    color: #6d0000;
+}
+
+.div-frete, .div-descontos h5 {
+    text-align: center;
+}
+
+.div-descontos {
+    justify-content: center;
+    align-items: center;
+    background: white;
+}
+
+
 .botao-car {
     background-color: #8D0000;
 }
@@ -17,9 +35,10 @@
     align-items: center;
 }
 
-h3 {
+h3, {
     text-align: center;
     color: black;
+    
 }
 
 p {
@@ -43,3 +62,10 @@ a {
 h6{
     color: whitesmoke;
 }
+
+h2 {
+    font-family: roboto;
+    font-weight: bold;
+}
+
+
