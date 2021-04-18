@@ -1,0 +1,30 @@
+.center {
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.cadastro {
+    margin-bottom: 10vh;
+    padding: 5vh;
+    border-radius: 1rem;
+    background: #F2F2F2;
+}
+
+h2 {
+    margin-bottom: 5vh;
+}
+
+.botao-cadastro {
+    margin-top: 1rem;
+    background-color: #e00000;
+    border: none;
+}
+.botao-cadastro:hover{
+    background-color: #6d0000;
+    color: white;
+}
+
+.botao-cadastro:{
+   background-color: #e00000; 
+}
