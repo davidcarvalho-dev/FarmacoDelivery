@@ -1,0 +1,26 @@
+.catego-prin{
+    color: #F2AEAE;
+}
+.linhap{
+    justify-content: center;
+}
+.div-proxcatego{
+ justify-content: center;
+}
+.btn-catego{
+    background-color: maroon;
+    color: whitesmoke;
+    border-radius: 50pc;
+}
+.btn-catego:hover{
+    background-color: firebrick;
+    color: whitesmoke;
+}
+.linkb{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.linkb:hover{
+    text-decoration: none;
+    color: whitesmoke;
+}
