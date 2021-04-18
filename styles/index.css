@@ -7,7 +7,10 @@
     justify-content: center;
     align-items: center;
 }
+.linha-fredesco{
+    margin-top: 25rem;
 
+}
 .div-frete {
     justify-content: center;
     align-items: center;
@@ -35,7 +38,7 @@
     align-items: center;
 }
 
-h3, {
+h3 {
     text-align: center;
     color: black;
     
@@ -52,7 +55,7 @@ a {
 }
 
 .prod-index {
-    margin-top: 15rem;
+    margin-top: 5rem;
     justify-content: center;
 }
 .titulo{
