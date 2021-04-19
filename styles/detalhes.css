@@ -1,0 +1,50 @@
+
+.linhap{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.div-caousel{
+    background-color: #f2f2f2;
+    justify-content: center;
+    border-radius: 1rem;
+}
+.div-proxcatego{
+ justify-content: center;
+}
+.btn-catego{
+    background-color: maroon;
+    color: whitesmoke;
+    border-radius: 50pc;
+}
+.btn-catego:hover{
+    background-color: firebrick;
+    color: whitesmoke;
+}
+.linkb{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.linkb:hover{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.linha-imagens{
+    justify-content: center;
+}
+.informacoes{
+    background-color: #f2f2f2;
+    border-radius: 1rem;
+}
+.texto-decricao{
+    text-align: justify;
+}
+.linha-botoes{
+    justify-content: center;
+    margin-top: 2rem;
+}
+.preco{
+    margin-top: 5rem;
+    margin-bottom: 0%;
+}
