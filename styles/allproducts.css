@@ -129,3 +129,11 @@ h3 {
     font-family: roboto;
     font-weight: bold;
 }
+.linkb{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.linkb:hover{
+    text-decoration: none;
+    color: whitesmoke;
+}
