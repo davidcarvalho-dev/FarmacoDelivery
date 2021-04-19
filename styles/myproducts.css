@@ -1,0 +1,32 @@
+.linha-central {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.botoes {
+    padding: 0;
+    margin: 0;
+    align-content: center;
+    text-align: center;
+}
+
+.botao-exluir{
+    color: red;
+    padding: 0;
+    padding-left: 1.5rem;
+}
+
+.botao-edit {
+    color: blue;
+    margin: 0;
+    padding-right: 1.5rem;
+}
+
+.linha-botoes {
+    margin-bottom: 1rem;
+}
+
+h2 {
+    font-family: roboto;
+    font-weight: bold;
+}
