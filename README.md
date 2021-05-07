@@ -8,7 +8,7 @@
     O Fármaco Delivery é um sistema (fictício) de delivery de medicamentos e produtos de higiene, trata-se do projeto final da disciplina 
     <strong>Autoria Web</strong> do curso técnico em Informática do Instituto Federal do Rio Grande do Norte (IFRN), ministrada pelo professor
     <a href="https://github.com/brunogomesifrn">Bruno Gomes de Araújo</a>, nesta matéria estudamos o desenvolvimento de aplicações front-end, 
-    por tanto este é um projeto estático em que apenas a sua interface foi construída.
+    portanto este é um projeto estático em que apenas a sua interface foi construída.
 </p>
 
 <h2> Tecnologias utilizadas </h2>
