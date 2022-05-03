@@ -5,10 +5,13 @@
 
 <h2>Sobre</h2>
 <p>
-    O Fármaco Delivery é um sistema (fictício) de delivery de medicamentos e produtos de higiene, trata-se do projeto final da disciplina 
-    <strong>Autoria Web</strong> do curso técnico em Informática do Instituto Federal do Rio Grande do Norte (IFRN), ministrada pelo professor
-    <a href="https://github.com/brunogomesifrn">Bruno Gomes de Araújo</a>, nesta matéria estudamos o desenvolvimento de aplicações front-end, 
+    O Fármaco Delivery é um sistema fictício de delivery de medicamentos e produtos de higiene, este foi o projeto final da disciplina 
+    Autoria Web do curso Técnico em Informática do IFRN do qual fui aluno, nesta matéria estudamos o desenvolvimento de aplicações front-end, 
     portanto este é um projeto estático em que apenas a sua interface foi construída.
+</p>
+
+<p>
+    <img src="https://lh3.googleusercontent.com/Yr3RUrg20IPdf6oih9HFG3tNJXCK57OBWHTamVxdEwc-5RxGbZbPwXlJRNkOYnE_WN-p67VIN_D9wQGvO58O5oSRNdxsECAZ_UblDufqrLl0ukXIw5PyCONFFq7WJ5B6sXVBAkVkkE2yuAyycW99Z49YcrSdE8ocxzwuN27zuWfGjJAhwtmQcaO1b-tzwGFmg0yFDQG1wkjbCfFDe5k8bhMIbGihwgHddPBD2YPPpGTuuTFxKnw83pl2EgUw-Oto8m2t-g71Hl19pky_OCmyONUNeJoAHOar0LXBWzb4f8FLOriRUQcGOQYBq03t3QRBWJi8SiUsYK7Zkddl0GWGhS6JDLCNnCKOOqjC95rth3kjyMD3N_gq5XrWMH5CD1Yv2oPw-dt6SwzTlJ5_79by026jMloCdY7FVdmvAOrUMbneEwqazoslDDm_eKJ3lgoo4g2BvtHwzHsMTQfIrgBxnDvjFpOrEsUZ3K3K2zkjWEfAEaUJhBcdPhlZwfnym62TUraZJOydcWwuMF1sjvLyhxdMDpE5COpmAcKhieR5RlFlau6so7Bn6Jrl7_PH2vUEb8G1NvIXDRsPQGMHQZdKnn1J2BBVgjIR5KryIffpeuQZVb-KFOgriRd5rZNCcbKNxvMzDNAJuVSN21I7E7rtOptiwkss9BetjbzRFsZFpGtZRERb2hx5o5xzKYzFXGnjjEcjxaqdcwnXuSZYcOV1h-s_jNr-7HjKu-ya2j4F5KlntochmQWJpbsSPADPx5PUo5fMihlLj-gs7ipoQEVsJdznSNCHjLknBeeNQLtn4sZoVK_1esMLL9pOxL4Fb1psKC0EAPBhRoYB5dllMlLrdMKcFN_rsSrEf8ymnIN1bRoFnLmeJw96jnEzF72JV1zih2FDVnFO=w1113-h625-no?authuser=0" alt"imagem do site do farmaco delivery">
 </p>
 
 <h2> Tecnologias utilizadas </h2>
@@ -22,7 +25,7 @@
 
 <h2>Como executar o projeto</h2>
 <p>
-    Para executar o Fármaco Delivery em sua máquina basta clonar o repositório (git clone https://github.com/David-S-Carvalho/FarmacoDelivery.git) e abrir o arquivo index.html que     está no diretório raiz.
+    Para executar basta fazer o download do projeto no formato zip, extrai-lo e abrir o arquivo index.html.
 </p>
 
 
@@ -32,5 +35,5 @@
 <table>
   <tr>
     <td align="center"><a href="https://www.instagram.com/erickgomx/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82111133?v=4s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt="Foto do Erick"/><br /><sub><b>Erick Gomes</b></sub></a><br /><a href="https://www.instagram.com/erickgomx/" title="Instagram do Erick"></a></td>
-    <td align="center"><a href="https://www.instagram.com/jucashimself/"><img style="border-radius: 50%;" src="https://scontent.fnat5-1.fna.fbcdn.net/v/t1.6435-9/182337937_488560952488227_5215812163588944445_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEKkFSuLV6oi_vh_iuzShzyRgmWgpKk0tJGCZaCkqTS0iwL_qSG1MFoN00C5tW2hkzLVZaFjEfnxYYRS8Jr_T6R&_nc_ohc=bjf2Cx5N3osAX-hy2ZK&_nc_ht=scontent.fnat5-1.fna&oh=7a6d3be3c339a7728f62ca2e1ca9a9c1&oe=60B976EB" width="100px;" alt=""/><br /><sub><b>João Lucas Cruz</b></sub></a><br /><a href="https://www.instagram.com/jucashimself/" title="Instagram do João Lucas"></a></td>
+    <td align="center"><a href="https://www.instagram.com/jucashimself/"><img style="border-radius: 50%;" src="https://lh3.googleusercontent.com/pgoSQa2hKjNrYKB-H0ESMKVHFx6RhDjU641KDnUjfJLB0NFsChorlOCWORoy919phRW3quTxBIctchpmWH1-gHVxxnt67YA8xKe-PHDEZBUWih5-wjGvAVyt8OuhVC1hKFO5VAs2u5Y5ULKbGlP7_49AeaCdc21lXcPo2ZhqGaP3qKGfnqgANc7WjjYi-VVu2o3Bh33k_xLemV5BFyWJ3dk719nFUzFguvbTsMlSCRYH9xYjYHLo_Eowj6XWAD6jm3DT9KdB_1rO_U-etNgm3W3A5zA9qRoiqMUgLmKpFeKk7OfogCbt4hY4T0-43pcjwYwgDMVV-m_HAOBo4ABRcbBM2BeutcC_1JfUPz8zMQJ5Th0nC-rNGnh4MJE7iVc89RQ5C-KJl5iPYB4kk9o7omhIhN7FNYIWJZepItIHrhfCkzcvyeSsNJRD_mCXoJQWBF9opZO9wFz7phzlLIdgczs9G8CUYray1TvMVNmIRi_W6MC73J7s0U_mxmvOHpOPBbq_WXyZmYhSSHZ6mKcE2Q8Wg2TV6iVw6I4w8N6oBBGUgTJheyTi7e4yZaFaGgKNS_8l3ccpqmqosLco2PHOJ2MH8jFJcZMoM2C8G3peZFIyn4dca75GtHAzue0EnVKeR4XC-BVt9pKkOYay6kuVtUqHhfaaQlG9Op1Tecup-8DtR5Kwtsc6D8KscL7CNVl119zT6x0zomVPJVhUWXxYCZDbXpI7CNdS_2WSVDAl2kYTtj-8Jg2tN1CewYcA_RHnwB0fS9Ig64LCxcNVGOu1rnnNuTX6rpKwv0hTXJkF3HB9N3Y6r9b_P9enAZJ3TNwrij0maDRaM8QsXajbDR8VygPbYr6YdCTgNKdlDki4OKHMijaVVnUF6YUWfLR9TL64SIqcISTD=w572-h568-no?authuser=0" width="100px;" alt=""/><br /><sub><b>João Lucas Cruz</b></sub></a><br /><a href="https://www.instagram.com/jucashimself/" title="Instagram do João Lucas"></a></td>
 </table>
